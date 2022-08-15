@@ -7,11 +7,11 @@ public class AdvancedNamingConvention {
     private int age;
     private int phoneNumber;
 
-    public static void callToFriend() {
+    void callToFriend() {
         //some code
     }
 
-    public static void callByNumber(int Number) {
+    void callByNumber(int number) {
         //some code
     }
 }
